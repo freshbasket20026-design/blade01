@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Blade</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_inbox">Inbox</string>
+    <string name="nav_profile">Profile</string>
+    <string name="tab_for_you">For You</string>
+    <string name="tab_following">Following</string>
+    <string name="action_follow">Follow</string>
+    <string name="action_following">Following</string>
+    <string name="action_like">Like</string>
+    <string name="action_comment">Comment</string>
+    <string name="action_share">Share</string>
+    <string name="action_save">Save</string>
+    <string name="action_gift">Gift</string>
+    <string name="action_report">Report</string>
+    <string name="action_block">Block User</string>
+    <string name="auth_sign_in">Sign In</string>
+    <string name="auth_sign_up">Create Account</string>
+    <string name="auth_forgot_password">Forgot Password?</string>
+    <string name="auth_google">Continue with Google</string>
+    <string name="auth_phone_otp">Phone OTP</string>
+    <string name="error_network">Unable to reach Supabase. Check your internet connection or Secrets configuration.</string>
+</resources>

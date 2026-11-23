@@ -1,0 +1,11 @@
+{
+  "name": "Blade",
+  "description": "Short-video social media app with vertical video feed, camera recording, creator monetization, and Supabase backend.",
+  "requestFramePermissions": [
+    "CAMERA",
+    "RECORD_AUDIO"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

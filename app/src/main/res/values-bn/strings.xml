@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Blade</string>
+    <string name="nav_home">হোম</string>
+    <string name="nav_discover">খুঁজুন</string>
+    <string name="nav_create">তৈরি</string>
+    <string name="nav_inbox">ইনবক্স</string>
+    <string name="nav_profile">প্রোফাইল</string>
+    <string name="tab_for_you">আপনার জন্য</string>
+    <string name="tab_following">ফলোয়িং</string>
+    <string name="action_follow">ফলো</string>
+    <string name="action_following">ফলোয়িং</string>
+    <string name="action_like">লাইক</string>
+    <string name="action_comment">মন্তব্য</string>
+    <string name="action_share">শেয়ার</string>
+    <string name="action_save">সংরক্ষণ</string>
+    <string name="action_gift">উপহার</string>
+    <string name="action_report">রিপোর্ট</string>
+    <string name="action_block">ব্লক করুন</string>
+    <string name="auth_sign_in">সাইন ইন</string>
+    <string name="auth_sign_up">অ্যাকাউন্ট তৈরি</string>
+    <string name="auth_forgot_password">পাসওয়ার্ড ভুলে গেছেন?</string>
+    <string name="auth_google">Google দিয়ে চালিয়ে যান</string>
+    <string name="auth_phone_otp">ফোন OTP</string>
+    <string name="error_network">Supabase এর সাথে সংযোগ করা যাচ্ছে না। আপনার ইন্টারনেট বা কনফিগারেশন পরীক্ষা করুন।</string>
+</resources>
